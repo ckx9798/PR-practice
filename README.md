@@ -1,2 +1,2 @@
 # PR-practice
-PR을 해보자
+PR을 해보자!
